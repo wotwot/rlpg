@@ -9,6 +9,8 @@ The current layout features a
 
 	* 3-input attenuated audio mixer
 
+	* Deep Switch
+
 	* 3-input, 2 attenuated cv mixer and the inverted cv out.
 
 
